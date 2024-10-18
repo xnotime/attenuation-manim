@@ -1,0 +1,12 @@
+[project]
+authors = ["residualentropy <161914158+residualentropy@users.noreply.github.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "attenuation-manim"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+manim = ">=0.18.1,<0.19"
